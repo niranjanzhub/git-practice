@@ -1,0 +1,10 @@
+class calcimain{
+
+public static void main(String []args){
+
+calci c=new calciImpl();
+
+system.out.println(c.add(10,20));
+
+}
+}
